@@ -1,0 +1,335 @@
+﻿customer_id,churn_date,churn_reason,exit_satisfaction_score,exit_feedback
+C000009,2026-09-05,Competitor offer,4,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000011,2026-09-10,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000012,2026-09-29,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000016,2026-09-18,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000018,2026-09-03,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000019,2026-09-19,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000020,2026-09-28,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000028,2026-09-09,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000030,2026-09-17,Network quality,5,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000031,2026-09-04,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000035,2026-09-05,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000041,2026-09-02,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000052,2026-09-29,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000053,2026-09-09,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000057,2026-09-20,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000059,2026-09-26,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000067,2026-09-07,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000068,2026-09-11,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000069,2026-09-12,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000078,2026-09-18,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000084,2026-09-24,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000086,2026-09-24,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000088,2026-09-20,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000094,2026-09-30,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000107,2026-09-29,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000131,2026-09-12,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000168,2026-09-05,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000182,2026-09-22,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000185,2026-09-21,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000188,2026-09-13,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000197,2026-09-17,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000200,2026-09-10,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000204,2026-09-02,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000208,2026-09-19,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000210,2026-09-15,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000220,2026-09-27,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000224,2026-09-15,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000230,2026-09-03,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000251,2026-09-18,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000258,2026-09-09,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000262,2026-09-16,Price too high,5,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000273,2026-09-21,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000276,2026-09-10,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000281,2026-09-27,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000283,2026-09-11,Payment issue,4,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000285,2026-09-10,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000286,2026-09-01,Competitor offer,5,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000299,2026-09-20,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000307,2026-09-20,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000315,2026-09-21,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000320,2026-09-08,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000326,2026-09-09,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000335,2026-09-12,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000341,2026-09-12,Price too high,3,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000342,2026-09-01,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000347,2026-09-04,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000353,2026-09-07,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000370,2026-09-23,Poor customer service,4,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000376,2026-09-15,Network quality,4,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000379,2026-09-11,Price too high,5,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000381,2026-09-17,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000386,2026-09-25,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000390,2026-09-19,No longer needed,4,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000391,2026-09-24,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000416,2026-09-24,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000422,2026-09-17,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000429,2026-09-23,Network quality,4,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000434,2026-09-04,Competitor offer,4,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000437,2026-09-13,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000438,2026-09-12,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000439,2026-09-09,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000441,2026-09-21,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000442,2026-09-17,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000443,2026-09-10,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000451,2026-09-24,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000455,2026-09-15,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000460,2026-09-30,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000464,2026-09-11,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000477,2026-09-06,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000481,2026-09-10,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000487,2026-09-29,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000488,2026-09-11,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000492,2026-09-19,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000496,2026-09-18,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000500,2026-09-30,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000501,2026-09-11,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000502,2026-09-14,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000505,2026-09-02,Competitor offer,4,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000512,2026-09-14,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000518,2026-09-29,Price too high,3,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000520,2026-09-06,Payment issue,4,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000521,2026-09-17,Price too high,3,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000524,2026-09-29,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000533,2026-09-01,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000544,2026-09-11,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000557,2026-09-02,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000559,2026-09-06,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000562,2026-09-12,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000567,2026-09-18,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000576,2026-09-11,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000580,2026-09-09,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000587,2026-09-23,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000590,2026-09-18,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000592,2026-09-02,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000599,2026-09-02,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000609,2026-09-13,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000626,2026-09-17,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000629,2026-09-05,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000632,2026-09-23,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000634,2026-09-05,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000635,2026-09-08,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000637,2026-09-08,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000643,2026-09-11,Poor customer service,4,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000646,2026-09-27,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000664,2026-09-12,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000676,2026-09-23,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000686,2026-09-12,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000689,2026-09-01,Competitor offer,4,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000693,2026-09-05,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000707,2026-09-24,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000743,2026-09-13,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000745,2026-09-23,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000750,2026-09-14,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000758,2026-09-21,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000764,2026-09-09,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000765,2026-09-20,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000772,2026-09-23,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000777,2026-09-04,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000779,2026-09-18,Network quality,4,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000784,2026-09-16,Price too high,4,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000792,2026-09-16,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000802,2026-09-25,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000804,2026-09-03,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000815,2026-09-14,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000817,2026-09-24,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000819,2026-09-11,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000823,2026-09-20,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000826,2026-09-10,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000836,2026-09-12,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000837,2026-09-12,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000848,2026-09-28,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000853,2026-09-11,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000871,2026-09-17,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000874,2026-09-09,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000881,2026-09-28,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000886,2026-09-30,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000895,2026-09-25,Network quality,4,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000916,2026-09-25,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000923,2026-09-17,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000924,2026-09-15,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000925,2026-09-26,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C000928,2026-09-26,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000929,2026-09-27,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C000931,2026-09-19,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000934,2026-09-11,Price too high,3,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000938,2026-09-05,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C000941,2026-09-10,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C000944,2026-09-18,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000953,2026-09-24,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000954,2026-09-08,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000956,2026-09-26,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C000959,2026-09-12,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C000965,2026-09-14,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001007,2026-09-17,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001013,2026-09-24,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001021,2026-09-29,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001025,2026-09-01,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001035,2026-09-23,Competitor offer,4,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001038,2026-09-21,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001044,2026-09-06,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001046,2026-09-12,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001052,2026-09-05,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001056,2026-09-30,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001058,2026-09-20,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001067,2026-09-22,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001070,2026-09-22,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001072,2026-09-06,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001079,2026-09-19,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001081,2026-09-12,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001088,2026-09-22,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001101,2026-09-01,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001125,2026-09-03,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001128,2026-09-05,Competitor offer,4,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001131,2026-09-05,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001132,2026-09-16,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001137,2026-09-03,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001138,2026-09-16,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001139,2026-09-22,Price too high,3,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001144,2026-09-12,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001146,2026-09-02,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001150,2026-09-12,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001154,2026-09-02,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001156,2026-09-28,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001164,2026-09-06,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001178,2026-09-02,Network quality,4,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001184,2026-09-19,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001199,2026-09-22,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001214,2026-09-20,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001227,2026-09-20,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001229,2026-09-04,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001244,2026-09-18,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001247,2026-09-02,Payment issue,4,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001249,2026-09-04,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001252,2026-09-30,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001253,2026-09-11,Competitor offer,4,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001260,2026-09-22,Network quality,4,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001275,2026-09-22,Price too high,3,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001281,2026-09-11,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001285,2026-09-03,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001288,2026-09-26,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001292,2026-09-15,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001296,2026-09-09,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001299,2026-09-10,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001303,2026-09-13,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001307,2026-09-21,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001308,2026-09-09,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001320,2026-09-24,Price too high,4,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001322,2026-09-11,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001326,2026-09-05,Poor customer service,4,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001347,2026-09-09,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001352,2026-09-11,Competitor offer,4,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001355,2026-09-06,Price too high,4,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001362,2026-09-14,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001375,2026-09-02,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001391,2026-09-18,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001393,2026-09-15,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001396,2026-09-30,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001398,2026-09-06,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001401,2026-09-19,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001403,2026-09-28,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001404,2026-09-17,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001413,2026-09-07,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001423,2026-09-27,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001431,2026-09-08,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001446,2026-09-16,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001447,2026-09-19,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001454,2026-09-14,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001463,2026-09-05,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001475,2026-09-06,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001478,2026-09-27,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001487,2026-09-15,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001493,2026-09-19,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001494,2026-09-01,Payment issue,4,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001504,2026-09-29,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001506,2026-09-14,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001508,2026-09-21,Price too high,4,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001520,2026-09-21,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001525,2026-09-14,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001526,2026-09-08,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001527,2026-09-07,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001558,2026-09-09,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001561,2026-09-20,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001568,2026-09-04,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001571,2026-09-15,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001572,2026-09-08,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001574,2026-09-04,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001575,2026-09-06,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001579,2026-09-28,Price too high,3,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001585,2026-09-04,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001586,2026-09-26,No longer needed,2,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001589,2026-09-17,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001598,2026-09-05,No longer needed,3,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001604,2026-09-16,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001613,2026-09-09,Network quality,4,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001616,2026-09-16,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001627,2026-09-12,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001628,2026-09-09,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001631,2026-09-15,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001642,2026-09-20,No longer needed,4,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001650,2026-09-09,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001657,2026-09-25,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001658,2026-09-09,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001662,2026-09-03,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001663,2026-09-15,Competitor offer,4,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001673,2026-09-29,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001678,2026-09-12,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001680,2026-09-30,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001683,2026-09-04,Price too high,4,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001688,2026-09-26,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001700,2026-09-28,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001709,2026-09-17,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001732,2026-09-02,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001737,2026-09-22,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001742,2026-09-23,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001746,2026-09-17,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001747,2026-09-21,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001753,2026-09-26,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001757,2026-09-22,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001760,2026-09-11,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001762,2026-09-26,Poor customer service,4,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001765,2026-09-13,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001770,2026-09-19,Network quality,2,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001779,2026-09-15,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001781,2026-09-12,Payment issue,4,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001782,2026-09-28,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001783,2026-09-07,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001785,2026-09-13,Poor customer service,4,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001789,2026-09-30,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001794,2026-09-01,Poor customer service,5,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001800,2026-09-13,Price too high,4,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001803,2026-09-11,Competitor offer,3,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001804,2026-09-02,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001807,2026-09-05,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001814,2026-09-28,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001827,2026-09-20,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001828,2026-09-28,Payment issue,1,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001831,2026-09-21,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001841,2026-09-18,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001850,2026-09-19,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001852,2026-09-12,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001855,2026-09-05,Competitor offer,2,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001859,2026-09-12,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001861,2026-09-13,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001865,2026-09-25,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001866,2026-09-21,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001879,2026-09-12,Network quality,1,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001885,2026-09-15,Price too high,3,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001896,2026-09-08,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001899,2026-09-24,Poor customer service,2,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001907,2026-09-13,Price too high,1,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001908,2026-09-06,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001917,2026-09-03,Price too high,2,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001927,2026-09-01,No longer needed,1,Pelanggan menyatakan layanan sudah tidak lagi dibutuhkan.
+C001936,2026-09-27,Payment issue,3,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001946,2026-09-23,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001948,2026-09-29,Poor customer service,3,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001959,2026-09-08,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001960,2026-09-29,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001970,2026-09-27,Network quality,3,Gangguan koneksi yang berulang menjadi alasan utama pelanggan pergi.
+C001975,2026-09-24,Price too high,3,Biaya bulanan terasa terlalu tinggi dibandingkan manfaat yang diterima.
+C001981,2026-09-30,Poor customer service,1,Pelanggan tidak puas karena penyelesaian keluhan membutuhkan waktu lama.
+C001982,2026-09-28,Competitor offer,4,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.
+C001986,2026-09-23,Payment issue,2,Masalah pada proses tagihan menjadi alasan penghentian layanan.
+C001999,2026-09-22,Competitor offer,1,Pelanggan menerima penawaran paket yang lebih menarik dari kompetitor.

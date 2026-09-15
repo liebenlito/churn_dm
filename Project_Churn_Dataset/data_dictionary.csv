@@ -1,0 +1,28 @@
+﻿table,column,role,type,description,teaching_note
+churn_customers_raw.csv,customer_id,Identifier,String,Customer identifier,Do not use as predictive feature.
+churn_customers_raw.csv,tenure_months,Feature,Numeric,Months as customer,Useful for EDA and churn interpretation.
+churn_customers_raw.csv,contract_type,Feature,Categorical,Contract duration,Strong business variable.
+churn_customers_raw.csv,plan_tier,Feature,Categorical,Basic/Standard/Premium,Useful for segmentation.
+churn_customers_raw.csv,internet_service,Feature,Categorical,Internet technology,Useful for service analysis.
+churn_customers_raw.csv,payment_method,Feature,Categorical,Payment method,Contains small intentional missingness.
+churn_customers_raw.csv,monthly_charge,Feature,Numeric,Current monthly charge,Use in EDA/classification.
+churn_customers_raw.csv,total_charge,Feature,Numeric,Historical accumulated charges,Contains intentional missingness.
+churn_customers_raw.csv,avg_monthly_gb,Feature,Numeric,Average data usage,Structurally missing when no internet.
+churn_customers_raw.csv,support_calls_3m,Feature,Numeric,Support calls in last 3 months,Potential churn signal.
+churn_customers_raw.csv,complaints_3m,Feature,Numeric,Complaints in last 3 months,Potential churn signal.
+churn_customers_raw.csv,late_payments_6m,Feature,Numeric,Late payments in last 6 months,Potential churn signal.
+churn_customers_raw.csv,satisfaction_score,Feature,Numeric,Survey score 1-5,Missing for some non-respondents.
+churn_customers_raw.csv,last_login_days,Feature,Numeric,Days since last login,Engagement signal.
+churn_customers_raw.csv,service_basket,Transaction feature,String,Semicolon-separated services,Useful for association rules.
+churn_customers_raw.csv,historical_customer_value,Feature,Numeric,Historical customer-value proxy,Useful for retention prioritization.
+churn_customers_raw.csv,churn_next_30d,Target,Binary,Churn within 30 days after snapshot,Primary supervised-learning target.
+churn_monthly_usage.csv,month,Time index,Date,Historical monthly period,Use for trend analysis.
+churn_monthly_usage.csv,data_usage_gb,Feature,Numeric,Monthly data usage,Aggregate or derive slope/change.
+churn_monthly_usage.csv,network_drops,Feature,Numeric,Network drop events,Potential temporal risk signal.
+churn_monthly_usage.csv,support_interactions,Feature,Numeric,Support interactions per month,Potential temporal risk signal.
+churn_monthly_usage.csv,payment_delay_days,Feature,Numeric,Days payment delayed,Payment behavior.
+churn_monthly_usage.csv,active_days,Feature,Numeric,Active days in month,Engagement trend.
+churn_support_tickets.csv,ticket_text,Feature/Text,Text,Historical support-ticket text,Useful for text analytics.
+churn_support_tickets.csv,sentiment_label,Label,Categorical,Synthetic ticket sentiment,Useful for simple sentiment tasks.
+churn_post_churn_feedback_DO_NOT_USE_FOR_PREDICTION.csv,churn_reason,POST-OUTCOME,Categorical,Reason after churn,TARGET LEAKAGE: never use as churn predictor.
+churn_post_churn_feedback_DO_NOT_USE_FOR_PREDICTION.csv,exit_feedback,POST-OUTCOME,Text,Exit feedback after churn,TARGET LEAKAGE for prediction.
